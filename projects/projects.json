@@ -13,7 +13,7 @@
   {
     "name": "Portfolio Website",
     "desc": "Personal Portfolio Website. Don't Need Much Info About It, Just Scroll Down. You're Here Only!",
-    "image": "portfolio1",
+    "image": "portfolioHuy",
     "category": "basicweb",
     "links": {
       "view": "#",
@@ -53,7 +53,7 @@
   {
     "name": "JavaScript Projects Website",
     "desc": "This website is specially build to showcase all major javaScript projects. All my javaScript based projects are in it.",
-    "image": "jspro",
+    "image": "tsfbank",
     "category": "basicweb",
     "links": {
       "view": "#",
@@ -63,7 +63,7 @@
   {
     "name": "Food Website",
     "desc": "Basic food website landing page built using HTML, CSS, SASS, Bootstrap and jQuery.",
-    "image": "foodwebsite",
+    "image": "foodicious",
     "category": "basicweb",
     "links": {
       "view": "#",
@@ -73,7 +73,7 @@
   {
     "name": "WebChat Website",
     "desc": "It's a web based chat app made using popular javaScript library Socket IO. Allows multiple users to connect.",
-    "image": "webchat",
+    "image": "chatweb",
     "category": "mern",
     "links": {
       "view": "#",
@@ -93,7 +93,7 @@
   {
     "name": "Link List",
     "desc": "All major profile links in a single website. It's just like clone of link tree. Personalized and Responsive.",
-    "image": "linklist",
+    "image": "listlink",
     "category": "basicweb",
     "links": {
       "view": "#",
@@ -103,7 +103,7 @@
   {
     "name": "Burger Shop Dummy",
     "desc": "Basic burger shop webpage allow users to check menu and price. Dummy Order Form.",
-    "image": "burgerweb",
+    "image": "webburger",
     "category": "basicweb",
     "links": {
       "view": "#",
