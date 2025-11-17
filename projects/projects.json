@@ -1,10 +1,10 @@
 [
 
   {
-    "name": "Web UI Clones",
-    "desc": "Flipkart, YouTube, Instagram, Sololearn web UI clones using tailwindCSS.",
-    "image": "webuiclones",
-    "category": "mern",
+    "name": "Data Bridge",
+    "desc": "Web Application Built Using The Laravel (PHP) Framework. Provides A Search Functionality For Domestic Computer Science Research Papers.",
+    "image": "baibaonckh",
+    "category": "basicweb",
     "links": {
       "view": "#",
       "code": "#"
@@ -21,6 +21,26 @@
     }
   },
   {
+    "name": "Link List",
+    "desc": "All major profile links in a single website. It's just like clone of link tree. Personalized and Responsive.",
+    "image": "listlink2",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+    {
+    "name": "Company Management System",
+    "desc": "This is a basic management software application developed in C# using the Windows Forms framework",
+    "image": "quanlycongty",
+    "category": "android",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
     "name": "Bootstrap Portfolio",
     "desc": "Portfolio built using HTML, CSS, Bootstrap, SASS and JavaScript. Customized Bootstrap using SCSS.",
     "image": "bootstrapportfolio",
@@ -30,6 +50,7 @@
       "code": "#"
     }
   },
+  
   {
     "name": "React-Projects",
     "desc": "Full-Stack project dashboard which is collection of projects built on the React library.",
@@ -51,59 +72,9 @@
     }
   },
   {
-    "name": "JavaScript Projects Website",
-    "desc": "This website is specially build to showcase all major javaScript projects. All my javaScript based projects are in it.",
-    "image": "tsfbank",
-    "category": "basicweb",
-    "links": {
-      "view": "#",
-      "code": "#"
-    }
-  },
-  {
     "name": "Food Website",
     "desc": "Basic food website landing page built using HTML, CSS, SASS, Bootstrap and jQuery.",
     "image": "foodicious",
-    "category": "basicweb",
-    "links": {
-      "view": "#",
-      "code": "#"
-    }
-  },
-  {
-    "name": "WebChat Website",
-    "desc": "It's a web based chat app made using popular javaScript library Socket IO. Allows multiple users to connect.",
-    "image": "chatweb",
-    "category": "mern",
-    "links": {
-      "view": "#",
-      "code": "#"
-    }
-  },
-  {
-    "name": "Basic Banking App",
-    "desc": "It's an android app which uses SQLite to store user accounts data. It provides feature to simply transact amount.",
-    "image": "basicbank",
-    "category": "android",
-    "links": {
-      "view": "#",
-      "code": "#"
-    }
-  },
-  {
-    "name": "Link List",
-    "desc": "All major profile links in a single website. It's just like clone of link tree. Personalized and Responsive.",
-    "image": "listlink",
-    "category": "basicweb",
-    "links": {
-      "view": "#",
-      "code": "#"
-    }
-  },
-  {
-    "name": "Burger Shop Dummy",
-    "desc": "Basic burger shop webpage allow users to check menu and price. Dummy Order Form.",
-    "image": "webburger",
     "category": "basicweb",
     "links": {
       "view": "#",
